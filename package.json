@@ -1,0 +1,29 @@
+{
+  "name": "webpack-course",
+  "version": "1.0.0",
+  "description": "educational repository for learning webpack functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioiscoding/webpack-course.git"
+  },
+  "keywords": [
+    "platzi",
+    "education",
+    "webpack",
+    "nodejs"
+  ],
+  "author": "Sergio Lopez <sergioawaken@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergioiscoding/webpack-course/issues"
+  },
+  "homepage": "https://github.com/sergioiscoding/webpack-course#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
